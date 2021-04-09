@@ -2,11 +2,7 @@
 
 # light weight Reddit clone
 
-> In this project, we will build the data structures necessary to support link submissions and commenting. This project do not include requirements fot front end. We will use the Rails console to harden skills working with models without the overhead of making HTTP requests and involving controllers or views..
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+> In this project, we will build the data structures necessary to support link submissions and comments. This project does not include requirements for the front end. We will use the Rails console to harden skills working with models without the overhead of making HTTP requests and involving controllers or views...
 
 ## Built With
 
@@ -18,14 +14,14 @@ Additional description about the project and its features.
 ### Prerequisites
 - Ruby
 - Ruby on Rails
-- SQLlite
+- SQLite
 
 ### Setup
-- After cloning repository to your local computer with following command `git clone git@github.com:marijanbrvar/micro-redit.git`, please run `bundler install`
-- You should be able to run Raisl console with `rails c`
+- After cloning a repository to your local computer with the following command `git clone git@github.com:marijanbrvar/micro-redit.git`, please run `bundler install.`
+- You should be able to run Rails console with `rails c`
 
 ### Usage
-- Try using some Rails queries within console e.g. `User.all` or `Post.last.comments` and check object returned from the databse.
+- Try using some Rails queries within the console, e.g. `User.all` or `Post.last.comments`, and check object returned from the database.
 
 
 ## Authors
