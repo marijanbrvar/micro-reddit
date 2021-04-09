@@ -12,29 +12,20 @@ Additional description about the project and its features.
 
 - Ruby on Rails
 - Active Records
-- SQLite
+- SQLite3
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- Ruby
+- Ruby on Rails
+- SQLlite
 
 ### Setup
-
-### Install
+- After cloning repository to your local computer with following command `git clone git@github.com:marijanbrvar/micro-redit.git`, please run `bundler install`
+- You should be able to run Raisl console with `rails c`
 
 ### Usage
-
-### Run tests
-
-### Deployment
-
+- Try using some Rails queries within console e.g. `User.all` or `Post.last.comments` and check object returned from the databse.
 
 
 ## Authors
@@ -57,11 +48,6 @@ Feel free to check the [issues page](issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
