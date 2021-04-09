@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# light weight Reddit clone
 
-> One paragraph statement about the project.
+> In this project, we will build the data structures necessary to support link submissions and commenting. This project do not include requirements fot front end. We will use the Rails console to harden skills working with models without the overhead of making HTTP requests and involving controllers or views..
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,13 +10,9 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- Ruby on Rails
+- Active Records
+- SQLite
 
 
 ## Getting Started
